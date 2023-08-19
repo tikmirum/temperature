@@ -1,7 +1,7 @@
-import { Users } from './elements/Users';
+import { Temperature } from './elements/temperature';
 
-const App = () => {
-  return <Users />;
+const App = () =>  {
+  return <Temperature/>;
 };
 
 export default App;
